@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "Pacifico";
+  src: url(/fonts/Pacifico.ttf);
+}
+@font-face {
+  font-family: "Quicksand_Bold";
+  src: url(/fonts/Quicksand_Bold.otf);
+}
+@font-face {
+  font-family: "Quicksand_Book";
+  src: url(/fonts/Quicksand_Book.otf);
+}
+@font-face {
+  font-family: "Quicksand_Dash";
+  src: url(/fonts/Quicksand_Dash.otf);
+}
+@font-face {
+  font-family: "Quicksand_Light";
+  src: url(/fonts/Quicksand_Light.otf);
+}
